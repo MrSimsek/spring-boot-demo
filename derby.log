@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 12 12:46:09 TRT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0175-bbd9-1bae-000009fe4b20 
+on database directory memory:/Users/denizsimsek/IdeaProjects/spring-boot-demo/982ffcfd-688e-4852-aac0-0ffcd9457093 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15 
+Loaded from file:/Users/denizsimsek/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.8+10-LTS
+user.dir=/Users/denizsimsek/IdeaProjects/spring-boot-demo
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
